@@ -1,3 +1,4 @@
+#drawing a playing card for four players
 import random
 
 def draw_card(deck, num_cards):
@@ -42,3 +43,4 @@ while len(deck) > 0:
     show_card(card)
 
 print("We are out of cards")
+
