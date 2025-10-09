@@ -2,7 +2,7 @@
 
 ### 📄 README (Deutsch)
 
-**🎴 Kartenziehen-Skript**
+**🎴 Kartenziehen - Skript**
 
 Dieses Skript simuliert das Ziehen von Karten aus einem gemischten Standardkartendeck mit 52 Spielkarten.
 Der Benutzer kann angeben, wie viele Karten er auf einmal ziehen möchte, und jede Karte wird als einfache ASCII-Grafik angezeigt.
