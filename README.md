@@ -1,6 +1,6 @@
 # Draw A Card!
 
-### 📄 README (Deutsch)
+# 📄 README (Deutsch)
 
 **🎴 Kartenziehen - Skript**
 
