@@ -1,7 +1,5 @@
 # Draw A Card!
 
-# 📄 README (Deutsch)
-
 **🎴 Kartenziehen - Skript**
 
 Dieses Skript simuliert das Ziehen von Karten aus einem gemischten Standardkartendeck mit 52 Spielkarten.
