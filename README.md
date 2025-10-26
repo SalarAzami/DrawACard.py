@@ -22,7 +22,7 @@ Der Benutzer kann angeben, wie viele Karten er auf einmal ziehen möchte, und je
 
 ---
 
-### 📄 راهنما (فارسی)
+### (فارسی)
 
 **🎴 اسکریپت کارت کشیدن**
 
